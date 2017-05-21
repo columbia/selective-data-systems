@@ -10,4 +10,9 @@ Our first step towards selective data systems is [Pyramid](https://github.com/co
 
 ### Pyramid code 
 
+TBA
+
 ### Pyramid tech report and system
+
+- Tech Report (extends the S&P paper): TBA
+- [S&P 2017 paper](https://roxanageambasu.github.io/publications/oakland2017pyramid.pdf)
