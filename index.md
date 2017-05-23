@@ -14,5 +14,5 @@ TBA
 
 ### Pyramid tech report and system
 
-- Tech Report (extends the S&P paper): TBA
+- [Tech Report (extends the S&P paper)](http://arxiv.org/abs/1705.07512)
 - [S&P 2017 paper](https://roxanageambasu.github.io/publications/oakland2017pyramid.pdf)
