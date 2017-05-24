@@ -10,7 +10,7 @@ Our first step towards selective data systems is [Pyramid](https://github.com/co
 
 ### Pyramid code 
 
-TBA
+- [Pyramid](https://github.com/columbia/pyramid-release) source code with an example.
 
 ### Pyramid tech report and system
 
